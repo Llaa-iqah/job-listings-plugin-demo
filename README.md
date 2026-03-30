@@ -37,7 +37,7 @@ For convenience, a static demo page is also hosted on GitHub Pages to showcase t
 
 ## Live Demo (GitHub Pages)
 Since GitHub Pages cannot run PHP, a static HTML file (`index.html`) is included to demonstrate the plugin’s output.  
-View the demo here: **[GitHub Pages Live Demo](https://<your-username>.github.io/job-listings-plugin/)**
+View the demo here: **[GitHub Pages Live Demo](https://llaa-iqah.github.io/job-listings-plugin-demo/)/)**
 
 ---
 
